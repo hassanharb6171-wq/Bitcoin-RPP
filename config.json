@@ -1,0 +1,871 @@
+{
+  "guildId": "1564975773473972294",
+  "guildNameFromExport": "Bitcoin RP",
+  "ownerIdFromExport": "925438621434130462",
+  "channels": {
+    "serverCode": "1564975775290097664",
+    "rpStatus": "1564975775290097665",
+    "upRankLog": "1564975777584390257",
+    "downRankLog": "1564975777584390258",
+    "teamJoinedLog": "1564975777584390259",
+    "ticketPanel": "1564975776812498980",
+    "ticketLog": "1564975778536620168",
+    "teamList": "1564975775290097670",
+    "robloxChecker": "1564975777584390254",
+    "robloxName": "1564975777978519613",
+    "absencePanel": "1564975777978519614",
+    "complaintPanel": "1564975776812498981"
+  },
+  "ticketCategories": {
+    "faction": "1564975778922369040",
+    "weapons": "1564975778922369041",
+    "unban": "1564975778922369042",
+    "complaint": "1564975778922369043"
+  },
+  "roles": {
+    "teamKick": "1564975773473972302",
+    "permanentWarn": "1564975773473972303",
+    "warn1": "1564975773536747552",
+    "warn2": "1564975773536747551",
+    "warn3": "1564975773536747550",
+    "rpControl": "1564975773582888976",
+    "fractureManagement": "1564975773641744474",
+    "founder": "1564975773759311940",
+    "owner": "1564975773759311939",
+    "deputyOwner": "1564975773759311938",
+    "adminLead": "1564975773666902029",
+    "moderatorLead": "1564975773666902028",
+    "supportLead": "1564975773666902027",
+    "supervisorDeputy": "1564975773666902030",
+    "supervisor": "1564975773666902031",
+    "teamLeadDeputy": "1564975773666902032",
+    "teamLead": "1564975773666902033",
+    "directorDeputy": "1564975773666902034",
+    "director": "1564975773666902035",
+    "serverLeadDeputy": "1564975773666902036",
+    "serverLead": "1564975773700325436",
+    "developer": "1564975773759311934",
+    "applicationAccepted": "1564975773536747553",
+    "commandManager": "1564975773700325443",
+    "robloxAccess": "1564975773641744469",
+    "absent": "1564975773759311935",
+    "citizen": "1564975773536747559",
+    "supporterTier": "1564975773616447522",
+    "moderatorTier": "1564975773616447526",
+    "adminTier": "1564975773641744467",
+    "serverTeam": "1564975773641744469",
+    "applicationKey": "1564975773641744470",
+    "ingameRights": "1564975773641744468",
+    "highTeam": "1564975773759311932",
+    "leadership": "1564975773759311933",
+    "announcementRights": "1564975773700325445",
+    "ownerTier": "1564975773759311937"
+  },
+  "rankRoles": [
+    {
+      "id": "1564975773582888979",
+      "name": "Test Supporter",
+      "group": "low"
+    },
+    {
+      "id": "1564975773616447519",
+      "name": "Jr. Supporter",
+      "group": "low"
+    },
+    {
+      "id": "1564975773616447520",
+      "name": "Supporter",
+      "group": "low"
+    },
+    {
+      "id": "1564975773616447521",
+      "name": "Sr. Supporter",
+      "group": "low"
+    },
+    {
+      "id": "1564975773616447523",
+      "name": "Jr. Moderator",
+      "group": "low"
+    },
+    {
+      "id": "1564975773616447524",
+      "name": "Moderator",
+      "group": "low"
+    },
+    {
+      "id": "1564975773616447525",
+      "name": "Sr. Moderator",
+      "group": "low"
+    },
+    {
+      "id": "1564975773616447527",
+      "name": "Jr. Admin",
+      "group": "low"
+    },
+    {
+      "id": "1564975773616447528",
+      "name": "Admin",
+      "group": "low"
+    },
+    {
+      "id": "1564975773641744466",
+      "name": "Sr. Admin",
+      "group": "low"
+    },
+    {
+      "id": "1564975773641744471",
+      "name": "Ausbilder",
+      "group": "high"
+    },
+    {
+      "id": "1564975773641744472",
+      "name": "Community Manager",
+      "group": "high"
+    },
+    {
+      "id": "1564975773641744473",
+      "name": "Ausbilder Leitung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773641744474",
+      "name": "Fraktionsverwaltung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773641744475",
+      "name": "Eventverwaltung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773666902027",
+      "name": "Supporter Leitung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773666902028",
+      "name": "Moderator Leitung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773666902029",
+      "name": "Admin Leitung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773666902030",
+      "name": "Stv. Supervisor",
+      "group": "high"
+    },
+    {
+      "id": "1564975773666902031",
+      "name": "Supervisor",
+      "group": "high"
+    },
+    {
+      "id": "1564975773666902032",
+      "name": "Stv. Teamleitung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773666902033",
+      "name": "Teamleitung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773666902034",
+      "name": "Stv. Direktor",
+      "group": "high"
+    },
+    {
+      "id": "1564975773666902035",
+      "name": "Direktor",
+      "group": "high"
+    },
+    {
+      "id": "1564975773666902036",
+      "name": "Stv. Serverleitung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773700325436",
+      "name": "Serverleitung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773700325437",
+      "name": "Projektmanagement",
+      "group": "high"
+    },
+    {
+      "id": "1564975773700325438",
+      "name": "Projektkoordination",
+      "group": "high"
+    },
+    {
+      "id": "1564975773700325439",
+      "name": "Stv. Projektleitung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773700325440",
+      "name": "Projektleitung",
+      "group": "high"
+    },
+    {
+      "id": "1564975773759311938",
+      "name": "Stv. Inhaber",
+      "group": "high"
+    },
+    {
+      "id": "1564975773759311939",
+      "name": "Inhaber",
+      "group": "high"
+    },
+    {
+      "id": "1564975773759311940",
+      "name": "Founder",
+      "group": "high"
+    }
+  ],
+  "ticketStaffRoleIds": [
+    "1564975773582888979",
+    "1564975773616447519",
+    "1564975773616447520",
+    "1564975773616447521",
+    "1564975773616447523",
+    "1564975773616447524",
+    "1564975773616447525",
+    "1564975773616447527",
+    "1564975773616447528",
+    "1564975773641744466",
+    "1564975773641744474",
+    "1564975773666902027",
+    "1564975773666902028",
+    "1564975773666902029",
+    "1564975773666902030",
+    "1564975773666902031",
+    "1564975773666902032",
+    "1564975773666902033",
+    "1564975773666902034",
+    "1564975773666902035",
+    "1564975773666902036",
+    "1564975773700325436",
+    "1564975773700325437",
+    "1564975773700325438",
+    "1564975773700325439",
+    "1564975773700325440",
+    "1564975773759311938",
+    "1564975773759311939",
+    "1564975773759311940"
+  ],
+  "rankManagerRoleIds": [
+    "1564975773666902029",
+    "1564975773666902030",
+    "1564975773666902031",
+    "1564975773666902032",
+    "1564975773666902033",
+    "1564975773666902034",
+    "1564975773666902035",
+    "1564975773666902036",
+    "1564975773700325436",
+    "1564975773700325437",
+    "1564975773700325438",
+    "1564975773700325439",
+    "1564975773700325440",
+    "1564975773759311938",
+    "1564975773759311939",
+    "1564975773759311940"
+  ],
+  "disciplineRoleIds": [
+    "1564975773666902028",
+    "1564975773666902029",
+    "1564975773666902030",
+    "1564975773666902031",
+    "1564975773666902032",
+    "1564975773666902033",
+    "1564975773666902034",
+    "1564975773666902035",
+    "1564975773666902036",
+    "1564975773700325436",
+    "1564975773759311938",
+    "1564975773759311939",
+    "1564975773759311940"
+  ],
+  "ticketTypes": {
+    "faction": {
+      "label": "Fraktion beantragen",
+      "prefix": "fraktion",
+      "categoryId": "1564975778922369040",
+      "fields": [
+        {
+          "id": "roblox",
+          "label": "Roblox-Name / ID",
+          "placeholder": "Dein Roblox-Name oder deine ID",
+          "required": true,
+          "style": "short"
+        },
+        {
+          "id": "faction",
+          "label": "Gewünschte Fraktion",
+          "placeholder": "Welche Fraktion möchtest du beantragen?",
+          "required": true,
+          "style": "short"
+        },
+        {
+          "id": "experience",
+          "label": "RP-Erfahrung",
+          "placeholder": "Welche RP-Erfahrung hast du?",
+          "required": true,
+          "style": "paragraph"
+        },
+        {
+          "id": "reason",
+          "label": "Warum diese Fraktion?",
+          "placeholder": "Erkläre kurz deine Motivation.",
+          "required": true,
+          "style": "paragraph"
+        }
+      ]
+    },
+    "weapons": {
+      "label": "Waffenschein beantragen",
+      "prefix": "waffenschein",
+      "categoryId": "1564975778922369041",
+      "fields": [
+        {
+          "id": "roblox",
+          "label": "Roblox-Name / ID",
+          "placeholder": "Dein Roblox-Name oder deine ID",
+          "required": true,
+          "style": "short"
+        },
+        {
+          "id": "reason",
+          "label": "Begründung",
+          "placeholder": "Warum möchtest du einen Waffenschein?",
+          "required": true,
+          "style": "paragraph"
+        },
+        {
+          "id": "experience",
+          "label": "RP-Erfahrung",
+          "placeholder": "Beschreibe deine bisherige RP-Erfahrung.",
+          "required": true,
+          "style": "paragraph"
+        }
+      ]
+    },
+    "unban": {
+      "label": "Entbannung beantragen",
+      "prefix": "entbannung",
+      "categoryId": "1564975778922369042",
+      "fields": [
+        {
+          "id": "roblox",
+          "label": "Roblox-Name / ID",
+          "placeholder": "Dein Roblox-Name oder deine ID",
+          "required": true,
+          "style": "short"
+        },
+        {
+          "id": "banreason",
+          "label": "Banngrund",
+          "placeholder": "Warum wurdest du gebannt?",
+          "required": true,
+          "style": "paragraph"
+        },
+        {
+          "id": "date",
+          "label": "Wann war der Bann?",
+          "placeholder": "Ungefähres Datum / Uhrzeit",
+          "required": false,
+          "style": "short"
+        },
+        {
+          "id": "appeal",
+          "label": "Warum Entbannung?",
+          "placeholder": "Warum sollte der Bann aufgehoben werden?",
+          "required": true,
+          "style": "paragraph"
+        }
+      ]
+    },
+    "complaintGeneral": {
+      "label": "Allgemeine Beschwerde",
+      "prefix": "beschwerde",
+      "categoryId": "1564975778922369043",
+      "fields": [
+        {
+          "id": "against",
+          "label": "Beschwerde gegen",
+          "placeholder": "Name oder Roblox-Name (optional, falls bekannt)",
+          "required": false,
+          "style": "short"
+        },
+        {
+          "id": "incident",
+          "label": "Was ist passiert?",
+          "placeholder": "Beschreibe den Vorfall möglichst genau.",
+          "required": true,
+          "style": "paragraph"
+        },
+        {
+          "id": "date",
+          "label": "Wann ist es passiert?",
+          "placeholder": "Datum und ungefähre Uhrzeit",
+          "required": false,
+          "style": "short"
+        },
+        {
+          "id": "proof",
+          "label": "Beweise / Links",
+          "placeholder": "Links zu Screenshots oder Videos, falls vorhanden",
+          "required": false,
+          "style": "paragraph"
+        }
+      ]
+    },
+    "complaintTeam": {
+      "label": "Teambeschwerde",
+      "prefix": "team-beschwerde",
+      "categoryId": "1564975778922369043",
+      "fields": [
+        {
+          "id": "against",
+          "label": "Teammitglied",
+          "placeholder": "Discord-Name, Erwähnung oder Roblox-Name",
+          "required": true,
+          "style": "short"
+        },
+        {
+          "id": "incident",
+          "label": "Was ist vorgefallen?",
+          "placeholder": "Beschreibe das Verhalten oder den Vorfall möglichst genau.",
+          "required": true,
+          "style": "paragraph"
+        },
+        {
+          "id": "date",
+          "label": "Wann ist es passiert?",
+          "placeholder": "Datum und ungefähre Uhrzeit",
+          "required": false,
+          "style": "short"
+        },
+        {
+          "id": "proof",
+          "label": "Beweise / Links",
+          "placeholder": "Links zu Screenshots oder Videos, falls vorhanden",
+          "required": false,
+          "style": "paragraph"
+        }
+      ]
+    }
+  },
+  "branding": {
+    "name": "Bitcoin RP",
+    "tagline": "Deine Stadt. Deine Entscheidungen. Deine Konsequenzen."
+  },
+  "rankRoleExtras": {
+    "1564975773582888979": [
+      "1564975773641744469",
+      "1564975773616447522"
+    ],
+    "1564975773616447519": [
+      "1564975773641744469",
+      "1564975773616447522"
+    ],
+    "1564975773616447520": [
+      "1564975773641744469",
+      "1564975773616447522"
+    ],
+    "1564975773616447521": [
+      "1564975773641744469",
+      "1564975773616447522"
+    ],
+    "1564975773616447523": [
+      "1564975773641744469",
+      "1564975773616447526"
+    ],
+    "1564975773616447524": [
+      "1564975773641744469",
+      "1564975773616447526"
+    ],
+    "1564975773616447525": [
+      "1564975773641744469",
+      "1564975773616447526"
+    ],
+    "1564975773616447527": [
+      "1564975773641744469",
+      "1564975773641744467"
+    ],
+    "1564975773616447528": [
+      "1564975773641744469",
+      "1564975773641744467"
+    ],
+    "1564975773641744466": [
+      "1564975773641744469",
+      "1564975773641744467"
+    ],
+    "1564975773641744471": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932"
+    ],
+    "1564975773641744472": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932"
+    ],
+    "1564975773641744473": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932"
+    ],
+    "1564975773641744474": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932"
+    ],
+    "1564975773641744475": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932"
+    ],
+    "1564975773666902027": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932"
+    ],
+    "1564975773666902028": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932"
+    ],
+    "1564975773666902029": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932"
+    ],
+    "1564975773666902030": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932"
+    ],
+    "1564975773666902031": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932"
+    ],
+    "1564975773666902032": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445"
+    ],
+    "1564975773666902033": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445"
+    ],
+    "1564975773666902034": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445"
+    ],
+    "1564975773666902035": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445"
+    ],
+    "1564975773666902036": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445"
+    ],
+    "1564975773700325436": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445"
+    ],
+    "1564975773700325437": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445"
+    ],
+    "1564975773700325438": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445"
+    ],
+    "1564975773700325439": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445"
+    ],
+    "1564975773700325440": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445"
+    ],
+    "1564975773759311938": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445",
+      "1564975773759311937"
+    ],
+    "1564975773759311939": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445",
+      "1564975773759311937"
+    ],
+    "1564975773759311940": [
+      "1564975773641744469",
+      "1564975773641744470",
+      "1564975773641744468",
+      "1564975773759311932",
+      "1564975773759311933",
+      "1564975773700325445",
+      "1564975773759311937"
+    ]
+  },
+  "rankRoleExtrasPolicy": {
+    "mode": "cumulative_thresholds",
+    "notes": [
+      "Beim Rangwechsel wird nur der alte Hauptrang plus bisher zugeordnete Zusatzrollen entfernt.",
+      "Alle nicht in rankRoleExtras zugeordneten Rollen bleiben unverändert.",
+      "Server-Team wird ab Test Supporter vergeben.",
+      "Supporter-, Moderator- und Admin-Ebene ersetzen sich je nach Ranggruppe.",
+      "Ab Ausbilder: Bewerbungsschlüssel, Ingame-Rechte und High-Team.",
+      "Ab Stv. Teamleitung: Leitung und Ankündigungsrechte.",
+      "Ab Stv. Inhaber: Inhaber-Ebene."
+    ]
+  },
+  "teamListAdditionalRoles": [
+    {
+      "id": "1564975773759311934",
+      "name": "Developer",
+      "group": "special"
+    }
+  ],
+  "nicknameRoles": [
+    {
+      "id": "1564975773473972295",
+      "name": "Content Creator"
+    },
+    {
+      "id": "1564975773536747559",
+      "name": "Bürger"
+    },
+    {
+      "id": "1564975773582888970",
+      "name": "Stammspieler*in"
+    },
+    {
+      "id": "1564975773582888971",
+      "name": "VIP"
+    },
+    {
+      "id": "1564975773582888972",
+      "name": "Partner"
+    },
+    {
+      "id": "1564975773582888973",
+      "name": "Team Freund"
+    },
+    {
+      "id": "1564975773582888974",
+      "name": "Team Aushilfe"
+    },
+    {
+      "id": "1564975773582888977",
+      "name": "Vertrauensperson"
+    },
+    {
+      "id": "1564975773582888979",
+      "name": "Test Supporter"
+    },
+    {
+      "id": "1564975773616447519",
+      "name": "Jr. Supporter"
+    },
+    {
+      "id": "1564975773616447520",
+      "name": "Supporter"
+    },
+    {
+      "id": "1564975773616447521",
+      "name": "Sr. Supporter"
+    },
+    {
+      "id": "1564975773616447523",
+      "name": "Jr. Moderator"
+    },
+    {
+      "id": "1564975773616447524",
+      "name": "Moderator"
+    },
+    {
+      "id": "1564975773616447525",
+      "name": "Sr. Moderator"
+    },
+    {
+      "id": "1564975773616447527",
+      "name": "Jr. Admin"
+    },
+    {
+      "id": "1564975773616447528",
+      "name": "Admin"
+    },
+    {
+      "id": "1564975773641744466",
+      "name": "Sr. Admin"
+    },
+    {
+      "id": "1564975773641744471",
+      "name": "Ausbilder"
+    },
+    {
+      "id": "1564975773641744472",
+      "name": "Community Manager"
+    },
+    {
+      "id": "1564975773641744473",
+      "name": "Ausbilder Leitung"
+    },
+    {
+      "id": "1564975773641744474",
+      "name": "Fraktionsverwaltung"
+    },
+    {
+      "id": "1564975773641744475",
+      "name": "Eventverwaltung"
+    },
+    {
+      "id": "1564975773666902027",
+      "name": "Supporter Leitung"
+    },
+    {
+      "id": "1564975773666902028",
+      "name": "Moderator Leitung"
+    },
+    {
+      "id": "1564975773666902029",
+      "name": "Admin Leitung"
+    },
+    {
+      "id": "1564975773666902030",
+      "name": "Stv. Supervisor"
+    },
+    {
+      "id": "1564975773666902031",
+      "name": "Supervisor"
+    },
+    {
+      "id": "1564975773666902032",
+      "name": "Stv. Teamleitung"
+    },
+    {
+      "id": "1564975773666902033",
+      "name": "Teamleitung"
+    },
+    {
+      "id": "1564975773666902034",
+      "name": "Stv. Direktor"
+    },
+    {
+      "id": "1564975773666902035",
+      "name": "Direktor"
+    },
+    {
+      "id": "1564975773666902036",
+      "name": "Stv. Serverleitung"
+    },
+    {
+      "id": "1564975773700325436",
+      "name": "Serverleitung"
+    },
+    {
+      "id": "1564975773700325437",
+      "name": "Projektmanagement"
+    },
+    {
+      "id": "1564975773700325438",
+      "name": "Projektkoordination"
+    },
+    {
+      "id": "1564975773700325439",
+      "name": "Stv. Projektleitung"
+    },
+    {
+      "id": "1564975773700325440",
+      "name": "Projektleitung"
+    },
+    {
+      "id": "1564975773759311938",
+      "name": "Stv. Inhaber"
+    },
+    {
+      "id": "1564975773759311939",
+      "name": "Inhaber"
+    },
+    {
+      "id": "1564975773759311940",
+      "name": "Founder"
+    },
+    {
+      "id": "1564975773759311934",
+      "name": "Developer"
+    },
+    {
+      "id": "1564989850510172193",
+      "name": "Security"
+    }
+  ]
+}
